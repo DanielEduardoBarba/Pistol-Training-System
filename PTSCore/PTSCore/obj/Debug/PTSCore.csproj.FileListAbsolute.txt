@@ -1,0 +1,7 @@
+C:\Users\danie\OneDrive\Documents\SharpDevelop Projects\PTSCore\PTSCore\bin\Debug\PTSCore.exe
+C:\Users\danie\OneDrive\Documents\SharpDevelop Projects\PTSCore\PTSCore\bin\Debug\PTSCore.pdb
+C:\Users\danie\OneDrive\Documents\SharpDevelop Projects\PTSCore\PTSCore\obj\Debug\PTSCore.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\SharpDevelop Projects\PTSCore\PTSCore\obj\Debug\PTSCore.MainForm.resources
+C:\Users\danie\OneDrive\Documents\SharpDevelop Projects\PTSCore\PTSCore\obj\Debug\PTSCore.csproj.GenerateResource.Cache
+C:\Users\danie\OneDrive\Documents\SharpDevelop Projects\PTSCore\PTSCore\obj\Debug\PTSCore.exe
+C:\Users\danie\OneDrive\Documents\SharpDevelop Projects\PTSCore\PTSCore\obj\Debug\PTSCore.pdb
